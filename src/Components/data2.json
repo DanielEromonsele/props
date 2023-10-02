@@ -1,0 +1,153 @@
+[
+    {
+        "id" : 1,
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "id" : 2,
+        "Pic" : "../Assets/car.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Racing cars",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "id" : 3, 
+        "Pic" : "../Assets/eagle.jpg",
+        "num": "-35%",
+        "Pricedesc" : "Bird",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/spider.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/spider.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    },
+    {
+        "Pic" : "../Assets/pic.jpg",
+        "num": "-25%",
+        "Pricedesc" : "Six-in-1 Quality socks",
+        "Pricetag" : "$1,100",
+        "OldPrice" : "$3,100"
+    }
+   
+]

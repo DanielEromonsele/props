@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "productImg" : "../../Assets/car.jpg",
+        "title": "Aston martin",
+        "cPric3": 20000000,
+        "OldPrice": 3500000,
+        "description" : "Car for sale",
+        "percentage": 18,
+        "discount": 1300000
+    },
+    {
+        "id" : 2,
+        "productImg" : "../../Assets/eagle.jpg",
+        "title": "Eagle ",
+        "cPric3": 150000,
+        "OldPrice": 200000,
+        "description" : "eagles for sale",
+        "percentage": 19,
+        "discount": 50000
+    },
+    {
+        "id" : 3,
+        "productImg" : "../../Assets/pebbles.jpg",
+        "title": "Rocks",
+        "cPric3": 10000,
+        "OldPrice": 17000,
+        "description" : "pebbles for sale",
+        "percentage": 20,
+        "discount": 7000
+    },
+    {
+        "id" : 4,
+        "productImg" : "../../Assets/eagle.jpg",
+        "title": "Eagle ",
+        "cPric3": 150000,
+        "description" : "eagles for sale",
+        "OldPrice": 200000,
+        "percentage": 19,
+        "discount": 50000
+    },
+    {
+        "id" : 5,
+        "productImg" : "../../Assets/pebbles.jpg",
+        "title": "Rocks",
+        "cPric3": 10000,
+        "OldPrice": 17000,
+        "description" : "pebbles for sale",
+        "percentage": 20,
+        "discount": 7000
+    },
+    {
+        "id" : 6,
+        "productImg" : "../../Assets/car.jpg",
+        "title": "Aston martin",
+        "cPric3": 20000000,
+        "OldPrice": 3500000,
+        "description" : "Car for sale",
+        "percentage": 18,
+        "discount": 70000
+    }
+]

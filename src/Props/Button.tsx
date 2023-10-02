@@ -37,4 +37,3 @@ const Content = styled.div`
     margin:0 5px;
     font-size: 18px;
 `
-

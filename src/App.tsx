@@ -1,16 +1,12 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import CardDisplay from './display/CardDislay';
+import { Mainrouter } from './Mainrouter/Router';
+import {RouterProvider} from 'react-router-dom'
+
 
 function App() {
   return (
-    <>
-    <div style={{width: "100%", height: "100%"}}>
-       <CardDisplay/>
+    <div>
+      <RouterProvider router={Mainrouter}/>
     </div>
-   
-    </>
   );
 }
 
